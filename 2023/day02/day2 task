@@ -1,0 +1,5 @@
+pwd --> it will show the current working directory
+
+ls -la ---> it will list where with aurgument 'a' will show the hidden files and folders
+
+mkdir -p A/B/C/D  ---> where with the 'p' attribute create parent directory and '/' will create inherated directory 
